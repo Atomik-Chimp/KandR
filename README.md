@@ -4,6 +4,21 @@ This is a Github project I'm using to learn C with the Kernighan and Ritchie boo
 
 Thir Readme is also part of learning how to make a good Github repository.  It's taken from a template and will be edited during the project.
 
+What I have learned to get projects up and started nicely with Github:
+
+Step 1: Create the blank project on Github. I use the name of the directory for the project name.
+
+Step 2: Create the local directory and clone the blank Github project to that directory.
+
+Step 3: Create the Readme.md and .gitignore files in the directory. Then commit these new files to the project.
+
+Step 4: I'm working in Visual C++ so I have .gitignored non-source Visual C++ files, I create the new Visual Studio Project, pointing to the directory above the Project folder.  That way Visual C++ doesn't create another folder of the same name inside my folder for it's files, it just uses my folder.
+
+Step 5: Work on your project files and commit them to the project.  
+
+I use Git Extensions to manage my Github files locally.
+
+  
 Anything below this line has not been updated for KandR.
 
 ## Getting Started
