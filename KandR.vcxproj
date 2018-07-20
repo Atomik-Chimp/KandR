@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter 1\ex1.cpp" />
+    <ClCompile Include="Chapter 1\ex1_2.cpp" />
     <ClCompile Include="KandR.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

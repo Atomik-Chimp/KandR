@@ -38,5 +38,8 @@
     <ClCompile Include="Chapter 1\ex1.cpp">
       <Filter>Source Files\Chapter 1</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter 1\ex1_2.cpp">
+      <Filter>Source Files\Chapter 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
