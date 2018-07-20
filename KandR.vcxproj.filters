@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Chapter 1">
+      <UniqueIdentifier>{248c3219-7b9a-4ee6-ba77-9ac2aef8d8f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
@@ -31,6 +34,9 @@
     </ClCompile>
     <ClCompile Include="KandR.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 1\ex1.cpp">
+      <Filter>Source Files\Chapter 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
